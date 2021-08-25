@@ -16,7 +16,7 @@ A series of lectures (in [Hinglish](https://en.wikipedia.org/wiki/Hinglish)) are
 
 # Hands-on demonstration:
 
-## Building High-Performance Computing (HPC) Cluster with Raspberry Pi 
+## Build Your Own HPC (High-Performance Computing) Cluster with Raspberry Pi 
 
 ### [With automated scripts (~ 1.5 hour)](wipi/automated/automated.md)
 
