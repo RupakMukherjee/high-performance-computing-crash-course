@@ -1,4 +1,4 @@
-High Performance Computing
+Tutorial on High Performance Computing Architecture
 ==============================
 a repository for teaching high performance computing architechture.
 
