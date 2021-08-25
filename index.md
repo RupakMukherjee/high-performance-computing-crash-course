@@ -1,4 +1,4 @@
-Build Your Own HPC Cluster
+Build Your Own HPC Cluster!
 ==============================
 a repository for teaching high performance computing architechture.
 
