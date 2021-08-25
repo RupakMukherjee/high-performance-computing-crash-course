@@ -1,4 +1,4 @@
-Tutorial on High Performance Computing Architecture
+Build Your Own HPC (High-Performance Computing) Cluster!
 ==============================
 a repository for teaching high performance computing architechture.
 
